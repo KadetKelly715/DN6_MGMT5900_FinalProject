@@ -4,6 +4,7 @@
 Consulting-style DIVE analysis (Discover → Investigate → Validate → Extend) on the 2022 NYC Yellow Taxi dataset to develop executive-ready strategy for competing against rideshare platforms. Each teammate completed an individual DIVE in their specialty; the team synthesized findings into a dashboard and a short video.
 
 ## Live Assets
+- **Repository Link:** https://github.com/KadetKelly715/DN6_MGMT5900_FinalProject.git
 - **Interactive Dashboard (Looker Studio):** https://lookerstudio.google.com/reporting/d1a3c4a9-644c-4baf-91c0-6793d1a01dc4  
 - **Video Walkthrough (YouTube, 3–5 min):** https://youtu.be/J2TzdpNXB50
 
