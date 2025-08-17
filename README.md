@@ -9,6 +9,7 @@ Consulting-style DIVE analysis (Discover → Investigate → Validate → Extend
 
 ## Repository Structure
 DN6_59000_FinalProject/
+
 ├── Individual_Analyses/
 │ ├── Financial_Analyst/
 │ │ ├── DIVE_Analysis.ipynb
