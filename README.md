@@ -7,34 +7,6 @@ Consulting-style DIVE analysis (Discover → Investigate → Validate → Extend
 - **Interactive Dashboard (Looker Studio):** https://lookerstudio.google.com/reporting/d1a3c4a9-644c-4baf-91c0-6793d1a01dc4  
 - **Video Walkthrough (YouTube, 3–5 min):** https://youtu.be/J2TzdpNXB50
 
-## Repository Structure
-DN6_59000_FinalProject/
-
-├── Individual_Analyses/
-│ ├── Financial_Analyst/
-│ │ ├── DIVE_Analysis.ipynb
-│ │ └── README.md
-│ ├── Customer_Analyst/
-│ │ ├── DIVE_Analysis.ipynb
-│ │ └── README.md
-│ ├── Operations_Analyst/
-│ │ ├── DIVE_Analysis.ipynb
-│ │ └── README.md
-│ ├── Risk_Strategy_Analyst/
-│ │ ├── DIVE_Analysis.ipynb
-│ │ └── README.md
-│ └── Tech_Innovation_Analyst/ (if applicable)
-│ ├── DIVE_Analysis.ipynb
-│ └── README.md
-├── Team_Deliverables/
-│ ├── Executive_Strategy_Presentation.pdf
-│ └── Team_Video_Link.txt
-├── Supporting_Materials/
-│ ├── Interactive_Dashboard/ (Looker screenshots or notebook for alt dashboard)
-│ └── Collaboration_Log.md
-└── README.md ← (this file)
-
-
 ## Business Challenge
 A NYC taxi operator is losing share to rideshare competitors. The team’s goal is to identify strategic levers—pricing, product, operations, partnerships, and risk posture—to stabilize core demand and grow profitable segments.
 
